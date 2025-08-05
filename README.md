@@ -10,4 +10,8 @@ Technologies Used:
 1. HTML: used to create and structure content on the web.
 2. CSS: used to style and design the appearance of HTML content on a web page
 3. React: A JavaScript library used for building user interfaces, especially for single-page applications (SPAs).
+
+The project can be accessed live using below link : 
+https://spectacular-dango-6e75f6.netlify.app/#about
+The project has been live through netlify 
    
