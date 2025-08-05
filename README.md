@@ -1,8 +1,13 @@
-# React + Vite
+Project Task for Basti ki Pathshala NGO internship
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created as an assignment for a Front-end Developer internship at Basti ki Pathshala NGO.
+It creates a simple responsive website which includes:
+  -> NGO home page
+  -> Volunteer form
+  -> About Us Section
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used:
+1. HTML: used to create and structure content on the web.
+2. CSS: used to style and design the appearance of HTML content on a web page
+3. React: A JavaScript library used for building user interfaces, especially for single-page applications (SPAs).
+   
