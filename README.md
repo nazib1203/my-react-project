@@ -13,5 +13,5 @@ Technologies Used:
 
 The project can be accessed live using below link : 
 https://spectacular-dango-6e75f6.netlify.app/#about
-The project has been live through netlify 
+The project has been live through netlify
    
